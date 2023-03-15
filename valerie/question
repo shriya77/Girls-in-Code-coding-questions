@@ -1,0 +1,26 @@
+
+Valerie enjoys buying various items from Shopee.
+Define each of the following products to be a variable with its value being the price of the product which you must decide (can be any number).
+Shoes
+Phone case
+Suitcase
+Earphones
+T-shirt
+Sunscreen
+Microwave
+Bath towel
+Socks
+Dried fruit 
+
+Create a user prompt that asks the user what item they would like to purchase (they can enter the number associated with the product e.g. 1 for Shoes). There should be at least 3 prompts so the user can add 3 items to the cart.
+
+Create a variable that is equal to the total price of the items added by the user.
+Create a conditional that adds the price of the item chosen to that total price value.
+
+Create a user prompt asking for the user to choose between the following discount coupons:
+20% discount
+10rm cashback
+50% cashback (as a choice for purchases above RM150 only)
+Create a conditional that applies the appropriate discount to the total price value depending on the user’s choice.
+
+Display the total amount to be paid by the user.
