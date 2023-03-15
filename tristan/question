@@ -1,0 +1,14 @@
+Tristan is on the way to Singapore for a photography competition. He wants to have a meal in the morning and then catch a grab to the airport at 8am from his house for a flight at 10am.
+
+Create an interface that lets Tristan order food for breakfast- limit the restaurant choice to 3 and let him also be able to view the time the order will take. Once he chooses a restaurant let him choose from a list of 5 breakfast menu items which will be unique for each of the 3 restaurants and each item must have a different price.
+
+You must create a variable that keeps track of the total money he spends. Allow him to order two items max from the shop of choice
+
+After this, create another interface that lets Tristan view the drivers that are available to take him to the airport. You should display the location of the driver and their name.
+
+Create a userinput function that allows the user to choose the driver and then give an estimate of the time the driver will take to reach Tristan and the time it will take to the airport.
+
+Print a statement showing the driver is on the way.
+
+At the end print the total cost of the ride which should differ according to the driver chosen.
+
