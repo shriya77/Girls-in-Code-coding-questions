@@ -1,0 +1,7 @@
+Charlotte loves watching horse riding shows. Create a two column user menu that lets you view a list of ten different horse riding movies of your choice.
+
+Create a function allowing the user to look at the rating of the movie as well as age restriction (3 movies). 
+
+Finally you want the user to be able to add whichever movie of choice to a watch later list that can be updated continuously (minimum of 2 movies).
+
+
